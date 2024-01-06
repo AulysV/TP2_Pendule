@@ -1,0 +1,130 @@
+Le calcul de la solution de référence a duré 3.7739999997938867 ms
+ForwardEuler : Calcul de l'erreur pour 0.001
+Temps d'éxécution : 34.94929999942542
+erreur : 0.3250163394954153
+ForwardEuler : Calcul de l'erreur pour 0.0003
+Temps d'éxécution : 114.8112000000765
+erreur : 0.0909774413653921
+ForwardEuler : Calcul de l'erreur pour 0.0001
+Temps d'éxécution : 345.8132999994632
+erreur : 0.02975893241720229
+ForwardEuler : Calcul de l'erreur pour 3e-05
+Temps d'éxécution : 1136.1269999997603
+erreur : 0.008867118451573619
+ForwardEuler : Calcul de l'erreur pour 1e-05
+Temps d'éxécution : 3420.6991999999445
+erreur : 0.0029501616767828587
+ForwardEuler : Calcul de l'erreur pour 3e-06
+Temps d'éxécution : 11343.291499999395
+erreur : 0.0008844473732831926
+ForwardEuler : Calcul de l'erreur pour 1e-06
+Temps d'éxécution : 34145.62769999975
+erreur : 0.00029476046908127884
+ForwardEuler : Calcul de l'erreur pour 3e-07
+Temps d'éxécution : 113260.93049999964
+erreur : 8.842213478232885e-05
+ForwardEuler : Calcul de l'erreur pour 1e-07
+Temps d'éxécution : 340299.0030000001
+erreur : 2.9473492228815346e-05
+ForwardEuler : Calcul de l'erreur pour 3e-08
+Temps d'éxécution : 1131848.4737
+erreur : 8.841987096053217e-06
+ForwardEuler : Calcul de l'erreur pour 1e-08
+Temps d'éxécution : 3401490.197500001
+erreur : 2.9473198350782326e-06
+ExplicitMidpoint : Calcul de l'erreur pour 0.1
+Temps d'éxécution : 1.2824000004911795
+erreur : 5.2876437951840645
+ExplicitMidpoint : Calcul de l'erreur pour 0.06
+Temps d'éxécution : 1.3013999996474013
+erreur : 2.1164771210753446
+ExplicitMidpoint : Calcul de l'erreur pour 0.02
+Temps d'éxécution : 3.7023999993834877
+erreur : 0.17159687000421284
+ExplicitMidpoint : Calcul de l'erreur pour 0.01
+Temps d'éxécution : 7.05759999982547
+erreur : 0.04278989898440287
+ExplicitMidpoint : Calcul de l'erreur pour 0.006
+Temps d'éxécution : 11.469900000520283
+erreur : 0.015712113819037386
+ExplicitMidpoint : Calcul de l'erreur pour 0.002
+Temps d'éxécution : 34.74589999859745
+erreur : 0.0017107441667730192
+ExplicitMidpoint : Calcul de l'erreur pour 0.001
+Temps d'éxécution : 68.61039999967034
+erreur : 0.00042766430027889324
+ExplicitMidpoint : Calcul de l'erreur pour 0.0003
+Temps d'éxécution : 227.12120000142022
+erreur : 3.844968682771566e-05
+ExplicitMidpoint : Calcul de l'erreur pour 0.0001
+Temps d'éxécution : 680.8249999994587
+erreur : 4.276402857938955e-06
+ExplicitMidpoint : Calcul de l'erreur pour 3e-05
+Temps d'éxécution : 2271.6979999986506
+erreur : 3.848358896274551e-07
+ExplicitMidpoint : Calcul de l'erreur pour 1e-05
+Temps d'éxécution : 6833.389499999612
+erreur : 4.276376725648179e-08
+ExplicitMidpoint : Calcul de l'erreur pour 3e-06
+Temps d'éxécution : 22742.486400000416
+erreur : 3.848769219993997e-09
+ExplicitMidpoint : Calcul de l'erreur pour 1e-06
+Temps d'éxécution : 68222.95629999826
+erreur : 4.2760933682828295e-10
+ExplicitMidpoint : Calcul de l'erreur pour 3e-07
+Temps d'éxécution : 227442.1000000002
+erreur : 3.829953021394772e-11
+ExplicitMidpoint : Calcul de l'erreur pour 1e-07
+Temps d'éxécution : 682205.8701999995
+erreur : 3.6318725804562746e-12
+ExplicitMidpoint : Calcul de l'erreur pour 3e-08
+Temps d'éxécution : 2274214.8201
+erreur : 1.3073986337985843e-12
+RungeKutta4 : Calcul de l'erreur pour 0.2
+Temps d'éxécution : 1.442799999495037
+erreur : 0.5831824006837838
+RungeKutta4 : Calcul de l'erreur pour 0.1
+Temps d'éxécution : 2.0644999985961476
+erreur : 0.043405976516913136
+RungeKutta4 : Calcul de l'erreur pour 0.06
+Temps d'éxécution : 3.3041000006051036
+erreur : 0.00849682644132943
+RungeKutta4 : Calcul de l'erreur pour 0.02
+Temps d'éxécution : 9.447699998418102
+erreur : 6.70396671424156e-05
+RungeKutta4 : Calcul de l'erreur pour 0.01
+Temps d'éxécution : 18.160100000386592
+erreur : 4.195495198214272e-06
+RungeKutta4 : Calcul de l'erreur pour 0.006
+Temps d'éxécution : 29.445699999996577
+erreur : 5.661153057237578e-07
+RungeKutta4 : Calcul de l'erreur pour 0.002
+Temps d'éxécution : 89.32769999955781
+erreur : 6.713059934326804e-09
+RungeKutta4 : Calcul de l'erreur pour 0.001
+Temps d'éxécution : 177.7509999992617
+erreur : 4.1953020918361617e-10
+RungeKutta4 : Calcul de l'erreur pour 0.0006
+Temps d'éxécution : 295.4888000003848
+erreur : 5.457086865723326e-11
+RungeKutta4 : Calcul de l'erreur pour 0.0002
+Temps d'éxécution : 886.3910000000033
+erreur : 6.781103456532378e-13
+RungeKutta4 : Calcul de l'erreur pour 0.0001
+Temps d'éxécution : 1775.993199998993
+erreur : 8.076872504148014e-14
+RungeKutta4 : Calcul de l'erreur pour 6e-05
+Temps d'éxécution : 2957.984500000748
+erreur : 2.90878432451791e-14
+RungeKutta4 : Calcul de l'erreur pour 2e-05
+Temps d'éxécution : 8884.789300000193
+erreur : 9.992007221626409e-14
+RungeKutta4 : Calcul de l'erreur pour 1e-05
+Temps d'éxécution : 17783.492200000182
+erreur : 4.529709940470639e-14
+RungeKutta4 : Calcul de l'erreur pour 6e-06
+Temps d'éxécution : 29628.67129999904
+erreur : 1.810357419529396e-13
+RungeKutta4 : Calcul de l'erreur pour 2e-06
+Temps d'éxécution : 88762.66489999944
+erreur : 1.758593271006248e-13
